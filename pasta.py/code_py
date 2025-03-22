@@ -1,0 +1,10 @@
+#Manipulação de string
+#concatenação
+#entrada de dados
+
+#utilização eficiente do github copilot.
+
+info1 = input ("digite")
+info2 = input ("digite")
+info_concatenada = info1 + " " +info2 
+print (" inform: ", info_concatenada)
